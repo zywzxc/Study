@@ -1,14 +1,21 @@
 body{
+<<<<<<< HEAD
 	/*background-color: #ff7f75;*/
+=======
+	background-color: #ff7f75;
+>>>>>>> 720ec50b24ab103b1d12b6700e3cb15493fad3b3
 	width: 100%;
 	height: 100%;
 }
 img{
 	width: 800px;
+<<<<<<< HEAD
 }
 p{
 	width: 124px;
     height: 24px;
 	display: inline-block;
 	background: red;
+=======
+>>>>>>> 720ec50b24ab103b1d12b6700e3cb15493fad3b3
 }
